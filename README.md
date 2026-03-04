@@ -26,15 +26,15 @@ Software Engineer na [@meutudo](https://github.com/meutudo). Frontend, backend, 
 
 ### Trajetória
 
-```text
-2025–now   Gerente de TI          @ meutudo
-2024–2025  Staff Engineer          @ meutudo
-2023–2024  Tech Lead               @ meutudo
-2022–2023  Tech Lead               @ Banco Bmg
-2021–2022  Senior React Developer  @ DXXR Holding (Portugal)
-2018–2021  Engenheiro de Software  @ Indra
-2016–2018  Dev Android             @ Stefanini
-```
+| Período | Cargo | Empresa |
+|---------|-------|---------|
+| 2025–now | Gerente de TI | **meutudo** |
+| 2024–2025 | Staff Engineer | **meutudo** |
+| 2023–2024 | Tech Lead | **meutudo** |
+| 2022–2023 | Tech Lead | **Banco Bmg** |
+| 2021–2022 | Senior React Developer | **DXXR Holding (Portugal)** |
+| 2018–2021 | Engenheiro de Software | **Indra** |
+| 2016–2018 | Dev Android | **Stefanini** |
 
 ---
 
