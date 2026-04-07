@@ -1,6 +1,6 @@
 ## Fala! Sou o Bruno Gráss
 
-Software Engineer na [@meutudo](https://github.com/meutudo). Frontend, backend, mobile — resolvo o que precisar. +8 anos atuando em fintechs e produtos usados por milhões de usuários.
+Software Engineer. Frontend, backend, mobile — resolvo o que precisar. +8 anos atuando em fintechs e produtos usados por milhões de usuários.
 
 ---
 
