@@ -28,7 +28,7 @@ Software Engineer. Frontend, backend, mobile — resolvo o que precisar. +8 anos
 
 | Período | Cargo | Empresa |
 |---------|-------|---------|
-| 2025–now | Gerente de TI | **meutudo** |
+| 2025–2026 | Gerente de TI | **meutudo** |
 | 2024–2025 | Staff Engineer | **meutudo** |
 | 2023–2024 | Tech Lead | **meutudo** |
 | 2022–2023 | Tech Lead | **Banco Bmg** |
